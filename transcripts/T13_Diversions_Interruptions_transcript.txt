@@ -1,0 +1,59 @@
+﻿T13 - Diversions and Interruptions (Expected: answer briefly, never invent interest rate, return to checklist)
+==============================================================================================================
+Platform: Retell AI (web call) | Agent: Home Credit LAP Qualification Agent
+Call details: Agent:Home Credit LAP Qualification Agent ( agent_c4310e...773 ) ∙ Version: 0 Call ID: call_d468e551731578b004b...ed8 Duration: 10/11/2026 16:24 - 10/11/2026 16:28 IST (3m 25s) Cost: $0.788 ∙ LLM Token: 7727.66
+
+CALL OUTCOME (post-call analysis): QUALIFIED
+ELIGIBILITY DETAILS: property_type: residential flat; ownership: sole ownership/in customer's name; original_documents: available; loan_amount: around ₹40 lakh; occupation: salaried; income_mode: salary credited to bank account; market_value: around ₹80 lakh; tenure_years: 10; disqualification_reason: none; callback_time: not asked
+SUMMARY: The customer completed a preliminary loan-against-property eligibility check for a residential flat, requesting around ₹40 lakh. The agent confirmed preliminary eligibility and said a senior loan expert would call with the interest rate and next steps.
+
+TRANSCRIPT
+----------
+[0:00] Agent (Priya): Good morning! May I please speak with Saiteja?
+[0:04] Customer: Yeah. So I did the scooting.
+[0:07] Agent (Priya): Hi Saiteja, this is Priya calling from Home Credit. Do you have two or three minutes right now for a quick update about a special offer?
+[0:24] Agent (Priya): Hello, can you hear me?
+[0:26] Customer: Yeah. Go ahead.
+[0:28] Agent (Priya): As a valued Home Credit customer, you have a special pre-approved Loan Against Property offer of up to
+[0:36] Customer: Wait. Wait. Wait. Wait.
+[0:35] Agent (Priya): seventy-five lakh rupees. I’ll ask a few quick questions to check the
+[0:39] Customer: Before that, what's the interest rate you are offering?
+[0:42] Agent (Priya): Our senior loan expert will share the exact interest rate after this quick check. What kind of property is it: a house or flat, a shop or
+[0:51] Customer: It's a
+[0:51] Agent (Priya): office, or an industrial
+[0:52] Customer: residential flat.
+[0:54] Agent (Priya): Is the property in your name alone, or jointly owned with someone?
+[0:58] Customer: It's my own in my name.
+[1:00] Agent (Priya): Do you have the original property documents available for verification?
+[1:05] Customer: What kind of documents do you need exactly?
+[1:08] Agent (Priya): For now, I just need to know whether the original property documents are available. The senior loan expert will guide you on the full document list later. Do you have the originals available for verification?
+[1:20] Customer: Yeah. Know. I have an originalist.
+[1:23] Agent (Priya): Thanks. How much would you like to borrow? The offer goes up to seventy-five lakh rupees.
+[1:30] Customer: Before that, are the robot or a real person?
+[1:33] Agent (Priya): Yes, I’m Home Credit’s virtual assistant, helping with a quick eligibility check before a senior loan
+[1:41] Customer: Ok, di loan
+[1:40] Agent (Priya): expert gets in touch. How much would you like to borrow?
+[1:43] Customer: amount I record around forty lakhs.
+[1:46] Agent (Priya): Alright, I’ve noted around forty lakh rupees. Are you salaried, or do you run your own business?
+[1:52] Customer: Yeah. And salad.
+[1:54] Agent (Priya): Sorry, I didn’t quite catch that. Are you
+[1:56] Customer: I'm salaried.
+[1:56] Agent (Priya): salaried, or do you run your own business?
+[2:09] Agent (Priya): And does your salary come into your bank account, or is it mostly paid in cash?
+[2:15] Customer: Yes. It comes into my bank account.
+[2:18] Agent (Priya): Thanks. Roughly what’s the current market value of the flat?
+[2:24] Customer: Lakhs.
+[2:26] Agent (Priya): Sorry,
+[2:26] Customer: JT.
+[2:27] Agent (Priya): I didn’t catch the amount. Roughly how many lakh rupees is the flat worth?
+[2:32] Customer: Lakhs. No.
+[2:36] Agent (Priya): If you’re unsure of the
+[2:37] Customer: Lakhs. Eighty lakhs.
+[2:37] Agent (Priya): market value, that’s okay. We can note that you’re not sure. Over how many years would you like to repay the loan, between three and fifteen years?
+[2:49] Customer: Teniers.
+[2:50] Agent (Priya): Thanks, I’ve noted the flat’s value as around eighty lakh rupees. Over how many years would you like to
+[2:57] Customer: You know English. Ten.
+[3:00] Agent (Priya): Thanks, I’ve noted ten years. Based on your answers, you meet the preliminary criteria for this offer. A senior loan expert
+[3:06] Customer: आतु नहीं, आतु.
+[3:06] Agent (Priya): from Home Credit will call you shortly with the exact interest rate and next steps. Thank you for your time, and have a great day.
+[3:18] Customer: Transcript transcript yell. Okay.

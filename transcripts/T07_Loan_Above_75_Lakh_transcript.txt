@@ -1,0 +1,95 @@
+﻿T7 - Loan Amount Above 75 Lakh (Expected: explain limit, offer 75 lakh, continue)
+=================================================================================
+Platform: Retell AI (web call) | Agent: Home Credit LAP Qualification Agent
+Call details: Agent:Home Credit LAP Qualification Agent ( agent_c4310e...773 ) ∙ Version: 0 Call ID: call_5f48a7812172abe0b6b...f0c Duration: 10/11/2026 15:17 - 10/11/2026 15:22 IST (4m 8s) Cost: $0.940 ∙ LLM Token: 7902.29
+
+CALL OUTCOME (post-call analysis): INCOMPLETE
+ELIGIBILITY DETAILS: property_type: independent house; ownership: in customer’s name only; original_documents: available; loan_amount: 75 lakh rupees; occupation: salaried; income_mode: bank account; market_value: 1.5 crore rupees; tenure_years: 15; disqualification_reason: none; callback_time: not asked
+SUMMARY: Customer confirmed eligibility details for a loan against an independently owned house, including original documents, salaried bank income, property value of 1.5 crore, and a 75 lakh loan request over 15 years. The agent stated the customer met preliminary criteria and said a senior loan expert would call back, but the call ended before the closing was completed.
+
+TRANSCRIPT
+----------
+[0:00] Agent (Priya): Good morning! May I please speak with Saiteja?
+[0:04] Customer: Yes. I'm sorry. You?
+[0:05] Customer: Todos los guitarristas y lo van a pagar.
+[0:09] Agent (Priya): Sorry, I didn't quite catch that. Could you say that again?
+[0:13] Customer: Yeah. I'm
+[0:20] Agent (Priya): Hi
+[0:20] Customer: Yeah. I'm No.
+[0:25] Agent (Priya): Sorry, are you saying you're not Saiteja?
+[0:28] Customer: I am
+[0:30] Agent (Priya): Hi Saiteja, this is Priya calling from Home Credit. I have a quick update about a special offer for you. Do you have two or three minutes right now?
+[0:39] Customer: Yes. Go ahead.
+[0:41] Agent (Priya): As a thank you for being a valued Home Credit customer, you have a special pre-approved Loan Against Property offer of up to seventy-five lakh rupees. I’d just like to ask a few quick questions to check your eligibility. Shall we go ahead?
+[0:55] Customer: Es, go ahead.
+[0:58] Customer: (unintelligible audio)
+[0:59] Agent (Priya): Sorry, I didn't quite catch that. Could you say that again?
+[1:03] Customer: Go ahead.
+[--] Customer: (unintelligible audio)
+[1:05] Agent (Priya): What kind of property is it: a house or
+[1:10] Customer: Yeah.
+[1:10] Agent (Priya): What kind of
+[1:10] Customer: It's an independent house.
+[1:12] Agent (Priya): Is it in your name alone, or jointly owned?
+[1:16] Customer: Yeah. In my name only.
+[1:18] Agent (Priya): Do you have the original property documents available for verification?
+[1:23] Customer: I'm having original documents.
+[1:25] Agent (Priya): How much would
+[1:26] Customer: (unintelligible audio)
+[--] Customer: (unintelligible audio)
+[--] Customer: (unintelligible audio)
+[--] Customer: (unintelligible audio)
+[1:27] Agent (Priya): How much would you like to
+[1:31] Agent (Priya): How much would you like to
+[1:37] Agent (Priya): How much would you like to borrow? The offer goes up to seventy-five lakh rupees.
+[1:42] Customer: I actually named ninety lakh.
+[1:45] Agent (Priya): This special offer goes up to a maximum of seventy-five lakh rupees. Would you like to proceed with seventy-five lakh?
+[1:54] Customer: Ok, seventy five is fine.
+[1:56] Agent (Priya): All right, I’ve noted seventy-five lakh. Are you salaried, or do you run your own business?
+[2:04] Customer: (unintelligible audio)
+[2:05] Agent (Priya): Sorry, I didn't quite catch that. Could you say that again?
+[2:08] Customer: Yeah. I'm salaried.
+[2:10] Agent (Priya): And is your income received in your bank account, or mostly in cash?
+[2:16] Customer: It it receives in bank accounts.
+[--] Customer: (unintelligible audio)
+[--] Customer: (unintelligible audio)
+[2:18] Agent (Priya): Roughly what would you say the current market value of
+[2:24] Agent (Priya): Roughly what would you say the current market
+[2:31] Customer: So it's in one point five growth.
+[2:34] Agent (Priya): Roughly one point five
+[2:35] Customer: One point five
+[2:38] Agent (Priya): Is that one point five crore rupees?
+[2:40] Customer: Yes.
+[--] Customer: (unintelligible audio)
+[--] Customer: (unintelligible audio)
+[--] Customer: (unintelligible audio)
+[2:42] Agent (Priya): Over
+[2:45] Agent (Priya): Over how many
+[2:49] Agent (Priya): Over how many years would you like to repay the loan? You can choose anywhere from three
+[2:56] Agent (Priya): to
+[2:56] Customer: Yeah. Sixteen years.
+[--] Customer: (unintelligible audio)
+[2:58] Agent (Priya): Thank you for sharing that, Saiteja. This particular offer is available for repayment tenures from three to fifteen years,
+[3:09] Customer: Okay. Then in fifteen years,
+[--] Customer: (unintelligible audio)
+[--] Customer: (unintelligible audio)
+[--] Customer: (unintelligible audio)
+[3:15] Agent (Priya): All right, fifteen
+[3:19] Agent (Priya): Thank you, Saiteja. Based on your answers, you meet the preliminary criteria for this offer.
+[3:31] Customer: Ok, ¿se le con?
+[--] Customer: (unintelligible audio)
+[--] Customer: (unintelligible audio)
+[--] Customer: (unintelligible audio)
+[--] Customer: (unintelligible audio)
+[--] Customer: (unintelligible audio)
+[--] Customer: (unintelligible audio)
+[3:33] Agent (Priya): A senior loan expert from Home Credit will call you back
+[3:39] Agent (Priya): shortly with the
+[3:43] Agent (Priya): Thank you for your
+[3:49] Agent (Priya): Thank you for
+[3:52] Agent (Priya): Thank you,
+[3:57] Customer: At the
+[--] Customer: (unintelligible audio)
+[--] Customer: (unintelligible audio)
+[4:01] Agent (Priya): A senior loan
+[4:05] Agent (Priya): A

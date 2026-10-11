@@ -1,0 +1,33 @@
+﻿T3 - Cash Income (Expected: DISQUALIFICATION)
+=============================================
+Platform: Retell AI (web call) | Agent: Home Credit LAP Qualification Agent
+Call details: Agent:Home Credit LAP Qualification Agent ( agent_c4310e...773 ) ∙ Version: 0 Call ID: call_bc68587265092695c9e...5a9 Duration: 10/11/2026 13:08 - 10/11/2026 13:09 IST (1m 29s) Cost: $0.337 ∙ LLM Token: 7286.47
+
+CALL OUTCOME (post-call analysis): DISQUALIFIED
+ELIGIBILITY DETAILS: property_type: commercial; ownership: sole/in my name; original_documents: yes; loan_amount: around ₹30 lakh; occupation: self-employed/business owner; income_mode: mostly cash; market_value: not asked; tenure_years: not asked; disqualification_reason: income is mostly cash and not received through a bank account; callback_time: not applicable
+SUMMARY: The customer confirmed a commercial property solely in their name with original documents and requested around ₹30 lakh. They stated their business income is mostly received in cash, so the agent disqualified them because the offer requires bank-account income.
+
+TRANSCRIPT
+----------
+[0:00] Agent (Priya): Good morning! May I please speak with Saiteja?
+[0:04] Customer: Yes.
+[0:06] Agent (Priya): Hi Saiteja, this is Priya calling from Home Credit. I have a quick update about a special offer for you. Do you have two or three minutes right now?
+[0:15] Customer: Yes.
+[0:16] Customer: Go ahead.
+[0:18] Agent (Priya): As a thank you for being a valued Home Credit customer, you have a special pre-approved Loan Against Property offer of up to seventy-five lakh rupees. I just need a few quick details to check the preliminary criteria. Shall we go ahead?
+[0:34] Customer: Yeah. We go ahead.
+[--] Customer: (unintelligible audio)
+[0:36] Agent (Priya): What kind of property is it: a
+[0:40] Customer: Commercial property.
+[0:43] Agent (Priya): Is the commercial property in your name alone, or
+[0:46] Customer: Eso. It's
+[0:46] Agent (Priya): jointly owned with someone?
+[0:48] Customer: in my name.
+[0:49] Agent (Priya): Do you have the original property documents available for verification?
+[0:54] Customer: Yes. I have originals.
+[0:57] Agent (Priya): How much would you like to borrow? The offer goes up to seventy-five lakh rupees.
+[1:02] Customer: Around thirty lakhs.
+[1:04] Agent (Priya): Are you salaried, or do you run your own business?
+[1:09] Customer: I run a small kid runners to most of the customers paying cash. So my income will be mostly in the cash only.
+[1:18] Agent (Priya): Thank you for sharing that. This particular offer requires income to be received through a bank account, so you wouldn't meet the criteria for it at this time. Thank you for your time, and have a good day.
+      [Tool called: end_call]

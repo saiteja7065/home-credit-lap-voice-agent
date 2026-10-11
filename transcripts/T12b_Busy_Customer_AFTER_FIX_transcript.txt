@@ -1,0 +1,25 @@
+﻿T12b - Busy Customer, AFTER prompt fix (Expected: no pitch, CALLBACK time captured, agent ends call)
+====================================================================================================
+Platform: Retell AI (web call) | Agent: Home Credit LAP Qualification Agent
+Call details: Agent:Home Credit LAP Qualification Agent ( agent_c4310e...773 ) ∙ Version: 0 Call ID: call_535df95bbbe52fa4b72...0e7 Duration: 10/11/2026 13:25 - 10/11/2026 13:26 IST (48s) Cost: $0.195 ∙ LLM Token: 7424.5
+
+CALL OUTCOME (post-call analysis): CALLBACK
+ELIGIBILITY DETAILS: property_type: not asked; ownership: not asked; original_documents: not asked; loan_amount: not asked; occupation: not asked; income_mode: not asked; market_value: not asked; tenure_years: not asked; disqualification_reason: none; callback_time: tomorrow, Monday, around 6 PM
+SUMMARY: The customer said they were in a meeting and requested a callback tomorrow at 6 PM. The agent confirmed the callback for Monday around 6 PM and ended the call.
+
+TRANSCRIPT
+----------
+[0:00] Agent (Priya): Good morning! May I please speak with Saiteja?
+[0:05] Customer: Yes.
+[0:07] Agent (Priya): Hi Saiteja, this is Priya calling from Home Credit. I have a quick update about a special offer for you. Do you have two or three minutes right now?
+[0:25] Agent (Priya): Hello, can you hear me?
+[0:27] Customer: Yes. I can blow you. Right now, I'm in a meeting.
+[0:32] Agent (Priya): I understand.
+[0:33] Customer: (unintelligible audio)
+[0:33] Agent (Priya): What would be a
+[--] Customer: (unintelligible audio)
+[0:35] Agent (Priya): Sorry,
+[0:38] Customer: Ok, call me tomorrow
+[0:41] Customer: evening six pm.
+[0:44] Agent (Priya): Sure, I'll arrange a call back tomorrow, Monday, around six PM. Thank you, and have a great day!
+      [Tool called: end_call]

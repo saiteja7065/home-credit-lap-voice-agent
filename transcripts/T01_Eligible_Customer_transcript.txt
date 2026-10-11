@@ -1,0 +1,85 @@
+﻿T1 - Fully Eligible Customer (Expected: QUALIFIED)
+==================================================
+Platform: Retell AI (web call) | Agent: Home Credit LAP Qualification Agent
+Call details: Agent:Home Credit LAP Qualification Agent | ( | agent_c4310e...773 | ) | ∙ | Version: 0 | Call ID: call_8266d67c39f1e6b6380...3e6 | Duration: 10/11/2026 12:58 - 10/11/2026 13:01 IST (3m 35s) | Cost: $0.794 | ∙ | LLM Token: 7483.83
+
+CALL OUTCOME (post-call analysis): QUALIFIED
+ELIGIBILITY DETAILS: property_type: residential 2BHK flat; ownership: sole ownership; original_documents: yes, available at home; loan_amount: around ₹60 lakh; occupation: salaried, working in an IT company; income_mode: salary deposited into bank account; market_value: ₹1 crore; tenure_years: 10; disqualification_reason: none; callback_time: shortly
+SUMMARY: The customer confirmed eligibility details for a loan against a residential 2BHK flat, including sole ownership, original documents, a requested loan of around ₹60 lakh, salaried IT employment with bank-account income, flat value of ₹1 crore, and a 10-year tenure. The agent stated that the customer met preliminary criteria and that a senior loan expert would call back.
+
+TRANSCRIPT
+----------
+[0:00] Agent (Priya): Good morning! May I
+[0:02] Customer: Hold on. Good
+[0:01] Agent (Priya): please speak with Saiteja?
+[0:03] Customer: luck, Chris. On. Good.
+[0:09] Agent (Priya): Hello, may I please speak with Saiteja?
+[0:18] Customer: (unintelligible audio)
+[0:20] Agent (Priya): Hello,
+[0:22] Customer: (unintelligible audio)
+[--] Customer: (unintelligible audio)
+[0:24] Agent (Priya): Hello, can you
+[0:27] Agent (Priya): hear me?
+[0:30] Customer: Yes. I can hear you.
+[0:32] Agent (Priya): Good
+[0:33] Customer: (unintelligible audio)
+[0:35] Agent (Priya): May I please
+[0:35] Customer: Good morning.
+[0:35] Agent (Priya): speak
+[0:37] Agent (Priya): with Saiteja?
+[0:40] Customer: Yes. You can.
+[--] Customer: (unintelligible audio)
+[--] Customer: (unintelligible audio)
+[0:42] Agent (Priya): Hi Saiteja, this is Priya
+[0:46] Agent (Priya): calling from Home Credit.
+[0:50] Agent (Priya): I have a quick update about a special offer for you.
+[0:52] Customer: Yes,
+[0:52] Agent (Priya): Do you have two or
+[0:53] Customer: Luis. Yes.
+[1:00] Agent (Priya): three minutes right now?
+[1:04] Customer: Yes.
+[1:06] Agent (Priya): As a
+[1:06] Customer: Are you
+[1:06] Agent (Priya): thank you
+[1:06] Customer: zero damage?
+[1:08] Agent (Priya): I'm
+[1:09] Customer: (unintelligible audio)
+[--] Customer: (unintelligible audio)
+[--] Customer: (unintelligible audio)
+[1:10] Agent (Priya): Sorry, could you
+[1:13] Agent (Priya): repeat
+[1:17] Agent (Priya): that?
+[1:21] Customer: Yeah. Yeah. Yeah. I'm having the time.
+[1:24] Customer: Go ahead.
+[1:25] Agent (Priya): As
+[1:26] Agent (Priya): a thank you for being a valued Home Credit customer, you have a special pre-approved Loan Against Property offer of up to seventy-five lakh rupees. May I ask a few quick questions to check your eligibility?
+[1:41] Customer: Ok.
+[1:42] Agent (Priya): What kind of property is it: a
+[1:44] Customer: (unintelligible audio)
+[1:45] Agent (Priya): house or flat, a shop or office, or an industrial property?
+[1:50] Customer: Yeah. It's a residential flat at two BHK.
+[1:54] Agent (Priya): Okay. Is the property in your name alone, or jointly owned with someone else?
+[2:00] Customer: No. Only with my names.
+[2:02] Agent (Priya): Do you have the original property documents available for verification?
+[2:07] Customer: Yes. I'm having virtual papers.
+[2:10] Agent (Priya): Just to confirm, are the original property documents available for verification?
+[2:17] Customer: Yes.
+[2:17] Customer: I have a general documents at my home.
+[2:20] Agent (Priya): How much would you like to borrow? This offer goes up to seventy-five lakh rupees.
+[2:26] Customer: Mhmm. Around sixty lakhs.
+[2:31] Agent (Priya): Are you salaried, or do you run your own business?
+[2:37] Customer: Yeah. I'm a salad person.
+[2:39] Customer: working in an IT company.
+[2:41] Agent (Priya): And is your income received in your bank account, or mostly in cash?
+[2:46] Customer: No. Salad dumps into my bank account.
+[2:50] Agent (Priya): Thanks. Roughly what is the current market value of your flat?
+[2:57] Customer: Something between one third. I want group.
+[3:02] Agent (Priya): Could you give me a
+[3:03] Customer: One through.
+[3:03] Agent (Priya): rough value in
+[3:05] Agent (Priya): Could you tell me the
+[3:06] Customer: One One crore.
+[3:07] Agent (Priya): Thanks. Over how many years would you like to repay the loan? You can choose anywhere from three to fifteen years.
+[3:16] Customer: Maybe. Ten years.
+[3:19] Agent (Priya): Thank you, Saiteja. That's everything I needed. Based on your answers, you meet the preliminary criteria for this offer. A senior loan expert from Home Credit will call you back shortly to share the exact interest rate and guide you through the next steps. Thank you for your time, and have a great day!
+      [Tool called: end_call]

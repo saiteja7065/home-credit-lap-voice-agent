@@ -1,0 +1,27 @@
+﻿T9 - Existing Loan on Property (Expected: TRANSFER TO LOAN-TRANSFER SPECIALIST)
+===============================================================================
+Platform: Retell AI (web call) | Agent: Home Credit LAP Qualification Agent
+Call details: Agent:Home Credit LAP Qualification Agent ( agent_c4310e...773 ) ∙ Version: 0 Call ID: call_3fbe149bdae724e2699...a7e Duration: 10/11/2026 13:11 - 10/11/2026 13:12 IST (1m 0s) Cost: $0.235 ∙ LLM Token: 7216.43
+
+CALL OUTCOME (post-call analysis): TRANSFER_TO_SPECIALIST
+ELIGIBILITY DETAILS: property_type: not asked; ownership: not asked; original_documents: not asked; loan_amount: not asked; occupation: not asked; income_mode: not asked; market_value: not asked; tenure_years: not asked; disqualification_reason: existing loan on the property; callback_time: not asked
+SUMMARY: The customer confirmed they are Saiteja and agreed to hear about the Loan Against Property offer. They indicated there is already an existing loan on the property, so the agent said a loan-transfer specialist would contact them shortly.
+
+TRANSCRIPT
+----------
+[0:00] Agent (Priya): Good morning! May I please speak with Saiteja?
+[0:04] Customer: Yes. This is
+[0:08] Agent (Priya): Hi Saiteja, this is Priya calling from Home Credit. I have a quick update about a special offer for you. Do you have two or three minutes right now?
+[0:17] Customer: Yes. Tell me about the she's chicken.
+[0:20] Agent (Priya): As a valued Home Credit customer, you have a special pre-approved Loan Against Property offer of up to seventy-five lakh rupees. I can ask a few quick questions to check the preliminary criteria—shall we go ahead?
+[0:35] Customer: Yeah.
+[0:35] Customer: Absolutely.
+[0:36] Customer: I already have a hold on running on this. It is VIP.
+[--] Customer: (unintelligible audio)
+[--] Customer: (unintelligible audio)
+[--] Customer: (unintelligible audio)
+[0:42] Agent (Priya): Thank you for letting me know. Since
+[0:46] Agent (Priya): there's an
+[0:50] Agent (Priya): existing loan on the property, our loan-transfer specialist will contact you shortly. Thank you for your
+[0:58] Agent (Priya): time, Saiteja. Have a great day.
+      [Tool called: end_call]

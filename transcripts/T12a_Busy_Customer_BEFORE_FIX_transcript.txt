@@ -1,0 +1,22 @@
+﻿T12a - Busy Customer, BEFORE prompt fix (Bug found: garbled callback time not re-asked; end_call not triggered)
+===============================================================================================================
+Platform: Retell AI (web call) | Agent: Home Credit LAP Qualification Agent
+Call details: Agent:Home Credit LAP Qualification Agent ( agent_c4310e...773 ) ∙ Version: 0 Call ID: call_6d7b719be0e9d7594a6...b33 Duration: 10/11/2026 13:21 - 10/11/2026 13:22 IST (58s) Cost: $0.227 ∙ LLM Token: 7175.6
+
+CALL OUTCOME (post-call analysis): CALLBACK
+ELIGIBILITY DETAILS: property_type: not asked; ownership: not asked; original_documents: not asked; loan_amount: not asked; occupation: not asked; income_mode: not asked; market_value: not asked; tenure_years: not asked; disqualification_reason: none; callback_time: not specified
+SUMMARY: The agent reached Saiteja regarding a Home Credit special offer, but the user said they were in a meeting and unavailable. The agent ended the call and said they would try again later; no specific callback time was provided.
+
+TRANSCRIPT
+----------
+[0:00] Agent (Priya): Good morning! May I please speak with Saiteja?
+[0:04] Customer: Yes.
+[0:07] Customer: (unintelligible audio)
+[0:09] Agent (Priya): Hi
+[0:09] Customer: Yes.
+[0:09] Agent (Priya): Saiteja, this is Priya calling from Home Credit. I have a quick update about a special offer for you. Do you have two or three minutes right now?
+[0:18] Customer: No.
+[0:18] Customer: Now I'm in a meeting right now.
+[0:21] Agent (Priya): What would be a convenient time for us to call you back?
+[0:25] Customer: So can you talk with him or do get on some speed?
+[0:29] Agent (Priya): No problem, we’ll try you again later. Thank you.

@@ -1,0 +1,21 @@
+﻿T2 - Agricultural Property (Expected: Immediate DISQUALIFICATION)
+=================================================================
+Platform: Retell AI (web call) | Agent: Home Credit LAP Qualification Agent
+Call details: Agent:Home Credit LAP Qualification Agent ( agent_c4310e...773 ) ∙ Version: 0 Call ID: call_ccc38cc69b28afed779...1a9 Duration: 10/11/2026 13:05 - 10/11/2026 13:06 IST (59s) Cost: $0.232 ∙ LLM Token: 7217.71
+
+CALL OUTCOME (post-call analysis): DISQUALIFIED
+ELIGIBILITY DETAILS: property_type: agricultural land; ownership: not asked; original_documents: not asked; loan_amount: not asked; occupation: not asked; income_mode: not asked; market_value: not asked; tenure_years: not asked; disqualification_reason: agricultural land is not eligible (only residential, commercial, or industrial properties qualify); callback_time: not asked
+SUMMARY: The customer confirmed availability and disclosed that the property is agricultural land in their village. The agent explained that the offer only applies to residential, commercial, or industrial properties and ended the call.
+
+TRANSCRIPT
+----------
+[0:00] Agent (Priya): Good morning! May I please speak with Saiteja?
+[0:06] Customer: Yes.
+[0:08] Agent (Priya): Hi Saiteja, this is Priya calling from Home Credit. I have a quick update about a special offer for you. Do you have two or three minutes right now?
+[0:17] Customer: Yes.
+[0:18] Agent (Priya): As a thank you for being a valued Home Credit customer, you have a special pre-approved Loan Against Property offer of up to seventy-five lakh rupees. I’d just like to ask a few quick questions to check your eligibility. Shall we go ahead?
+[0:33] Customer: Yes. We go ahead.
+[0:34] Agent (Priya): What kind of property is it: a house or flat, a commercial space, or an industrial property?
+[0:42] Customer: So I'm having a land in my village. So it's an agricultural land.
+[0:47] Agent (Priya): Thank you for sharing that, Saiteja. Unfortunately, this particular offer is available only for residential, commercial, or industrial properties, so it wouldn't apply to agricultural land. Thank you for your time, and have a good day.
+      [Tool called: end_call]

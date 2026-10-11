@@ -1,0 +1,52 @@
+﻿T16 - Joint Ownership (Expected: continue, joint ownership is eligible -> QUALIFIED)
+====================================================================================
+Platform: Retell AI (web call) | Agent: Home Credit LAP Qualification Agent
+Call details: Agent:Home Credit LAP Qualification Agent ( agent_c4310e...773 ) ∙ Version: 0 Call ID: call_b99db1f0248097d1e18...290 Duration: 10/11/2026 15:53 - 10/11/2026 15:55 IST (2m 38s) Cost: $0.608 ∙ LLM Token: 7602.23
+
+CALL OUTCOME (post-call analysis): QUALIFIED
+ELIGIBILITY DETAILS: property_type: residential house; ownership: jointly owned with wife; original_documents: physical originals available; loan_amount: ₹60 lakh; occupation: self-employed; income_mode: bank account; market_value: ₹1.2 crore; tenure_years: 12; disqualification_reason: none; callback_time: shortly
+SUMMARY: The customer completed the preliminary Loan Against Property eligibility check and qualified. He has a jointly owned residential house with physical original documents, seeks ₹60 lakh, is self-employed with bank-account income, stated a property value of ₹1.2 crore, and requested a 12-year tenure; a senior loan expert will call back.
+
+TRANSCRIPT
+----------
+[0:00] Agent (Priya): Good morning! May I please speak with Saiteja?
+[0:05] Customer: Yes.
+[0:07] Agent (Priya): Hi Saiteja, this is Priya calling from Home Credit. I have a quick update about a special offer for you. Do you have two or three minutes right now?
+[0:15] Customer: Yeah, go ahead.
+[0:17] Agent (Priya): As a thank you for being a valued Home Credit customer, you have a special pre-approved Loan Against Property offer of up to seventy-five lakh rupees. I’d like to ask a few quick questions for a preliminary check. Shall we go ahead?
+[0:31] Customer: नहीं नहीं फिर gold वाले में से कह रहा हां.
+[0:36] Agent (Priya): Sorry, I didn't
+[0:37] Customer: Go ahead.
+[0:37] Agent (Priya): quite catch that. Could you say that again?
+[0:39] Customer: Go ahead.
+[0:40] Agent (Priya): What kind of property is it: a house or flat, a commercial space, or an industrial
+[0:45] Customer: The
+[0:45] Agent (Priya): property?
+[0:45] Customer: residential house.
+[0:47] Agent (Priya): Is the property in your name alone, or jointly owned with someone?
+[0:52] Customer: Jointly on with my wife.
+[0:54] Agent (Priya): Do you have the original property documents available for verification?
+[0:59] Customer: Yes. I am having virtual documents for the Original. Original document.
+[1:06] Agent (Priya): Just to confirm, are the physical original documents available for verification?
+[1:12] Customer: Yes. I'm having physical original documents.
+[1:16] Agent (Priya): How much would you like to borrow? The offer goes up to seventy-five lakh rupees.
+[1:22] Customer: I need sixty lakhs.
+[1:24] Agent (Priya): Are you salaried, or do you run your own business?
+[1:28] Customer: Unsalaried
+[1:30] Agent (Priya): Do you run your own business or have self-employed income?
+[1:39] Customer: Self-employed.
+[1:41] Agent (Priya): And does most of your income come into your bank account, or is it mostly in cash?
+[1:55] Customer: Yeah. It comes into my back accounts.
+[1:58] Agent (Priya): Roughly what would you say the current market value of the property is?
+[2:04] Customer: One point two crores.
+[2:06] Agent (Priya): Over how many years would you like to repay the loan? You can choose anywhere from three to fifteen
+[2:11] Customer: (unintelligible audio)
+[2:11] Agent (Priya): years.
+[2:13] Agent (Priya): Sorry, I
+[2:13] Customer: Twelve years.
+[2:14] Agent (Priya): didn't quite catch that. Could you say how many years you'd prefer for repayment?
+[2:19] Customer: Yeah. Twelve years.
+[2:21] Agent (Priya): Thank you, Saiteja, that's everything I needed. Based on your answers, you meet the preliminary criteria for this offer. A senior loan expert from Home Credit will call you back shortly to share the exact interest rate and guide you through the next steps. Thank you for
+[2:37] Customer: (unintelligible audio)
+[2:37] Agent (Priya): your time, and have a great day!
+      [Tool called: end_call]

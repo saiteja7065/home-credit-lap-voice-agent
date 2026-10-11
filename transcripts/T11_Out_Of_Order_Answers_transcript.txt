@@ -1,0 +1,38 @@
+﻿T11 - Out-of-Order Answers (Expected: capture all facts, ask only the next missing question, skip market value)
+===============================================================================================================
+Platform: Retell AI (web call) | Agent: Home Credit LAP Qualification Agent
+Call details: Agent:Home Credit LAP Qualification Agent ( agent_c4310e...773 ) ∙ Version: 0 Call ID: call_bbcbcd1c59c7251cbd8...ad0 Duration: 10/11/2026 16:13 - 10/11/2026 16:15 IST (1m 42s) Cost: $0.399 ∙ LLM Token: 7520.68
+
+CALL OUTCOME (post-call analysis): QUALIFIED
+ELIGIBILITY DETAILS: property_type: residential house; ownership: jointly owned with wife; original_documents: yes; loan_amount: ₹60 lakh; occupation: self-employed; income_mode: income comes to bank; market_value: about ₹1.2 crore; tenure_years: 12; disqualification_reason: none; callback_time: shortly
+SUMMARY: Saiteja confirmed eligibility details for a loan against a jointly owned residential house, valued at about ₹1.2 crore, seeking ₹60 lakh. He is self-employed with income credited to his bank, has original documents, and prefers a 12-year tenure; the agent confirmed preliminary eligibility and said a senior loan expert would call back.
+
+TRANSCRIPT
+----------
+[0:00] Agent (Priya): Good morning! May I please speak with Saiteja?
+[0:04] Customer: Yes.
+[0:06] Agent (Priya): Hi Saiteja, this is Priya calling from Home Credit. I have a quick update about a special offer for you. Do you have two or three minutes right now?
+[0:15] Customer: Yes.
+[0:16] Agent (Priya): As a thank you for being a valued Home Credit customer, you have a special pre-approved Loan Against Property offer of up to seventy-five lakh rupees. I’d just like to ask a few quick questions to check your eligibility. Shall we go ahead?
+[0:31] Customer: Yeah. Go ahead. Right?
+[0:33] Agent (Priya): What kind of property is it: a house or flat, a commercial space like a shop or office, or an industrial property?
+[0:43] Customer: So it's a residential house.
+[0:45] Customer: jointly phoned with me wife.
+[0:47] Customer: Worth
+[0:48] Agent (Priya): Is the
+[0:47] Customer: about one point two crores, and I need sixty lakhs.
+[0:52] Agent (Priya): Do you have the original property documents available for verification?
+[0:57] Customer: Yes. Original for it only.
+[0:59] Agent (Priya): Are
+[0:59] Customer: And I'm self-employed.
+[0:59] Agent (Priya): you salaried, or do you run your own business?
+[1:03] Agent (Priya): And does most of your income come into your bank
+[1:03] Customer: And I am self-employed. Income comes to my bank
+[1:08] Agent (Priya): What repayment period would you prefer? You can choose anywhere from three to fifteen years.
+[1:14] Customer: Really?
+[1:15] Customer: hear us?
+[1:17] Agent (Priya): Yes, I can hear you. What repayment period would you prefer, between three and
+[1:21] Customer: Twelve years.
+[1:21] Agent (Priya): fifteen years?
+[1:24] Agent (Priya): Thank you, Saiteja, that's everything I needed. Based on your answers, you meet the preliminary criteria for this offer. A senior loan expert from Home Credit will call you back shortly to share the exact interest rate and guide you through the next steps. Thank you for your time, and have a great day!
+      [Tool called: end_call]
